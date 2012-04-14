@@ -24,4 +24,6 @@ flow: (when not using staging)
   git status - see local vs remote
   git push -u origin master - update the remote
 
+Notes:
+  http://www.webbykat.com/content/fixing-connection-refused-error-message-when-pushing-git
 
