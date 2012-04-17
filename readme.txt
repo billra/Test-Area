@@ -16,7 +16,6 @@ git status
 # Your branch is ahead of 'origin/master' by 2 commits.
 git push -u origin master
 
-
 flow: (when not using staging)
   git add {some files} - to do the initial add
   git diff - to see local changes
