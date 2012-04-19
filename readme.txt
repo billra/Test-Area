@@ -22,6 +22,7 @@ flow: (when not using staging)
   git commit -a -m 'some comment' - checkin with comment (skip staging)
   git status - see local vs remote
   git push -u origin master - update the remote
+  git pull origin master - get changes others have checked in
 
 Troubleshooting:
   http://www.webbykat.com/content/fixing-connection-refused-error-message-when-pushing-git
