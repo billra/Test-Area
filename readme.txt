@@ -46,5 +46,7 @@ Troubleshooting:
   http://stackoverflow.com/questions/2122465/ssh-cannot-authenticate-to-gitgithub-com "Agent admitted failure to sign using the key." 
 
 Edit from VS2013
+Edit from VS2015
+
 
 
